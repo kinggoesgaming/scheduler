@@ -10,7 +10,7 @@ keywords = ["process", "scheduler", "daemon", "linux"]
 categories = ["os::unix-apis"]
 
 [workspace]
-members = [ "pidwatcher", "scheduler" ]
+members = [ "gtk", "pidwatcher", "scheduler" ]
 
 [dependencies]
 err-derive = "0.1.5"

@@ -171,6 +171,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "process-scheduler-gtk"
+version = "0.1.0"
+
+[[package]]
 name = "procfs"
 version = "0.5.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
